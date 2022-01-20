@@ -1,0 +1,1 @@
+This project aims to collect and create an open source amharic data corpes for amharic speach recognition.
